@@ -14,7 +14,7 @@ This roadmap outlines short-term, medium-term, and long-term goals for RatOS. It
 
 ## 🎯 Short-Term Goals (v0.1)
 
-* [ ] Establish **API conventions** (handles, error model, naming).
+* [*] Establish **API conventions** (handles, error model, naming).
 * [ ] Implement **basic process & thread management** (`RatCreateProcess`, `RatCreateThread`, `RatWaitForSingleObject`).
 * [ ] Provide **file I/O wrapper API** (`RatOpenFile`, `RatReadFile`, `RatWriteFile`).
 * [ ] Define **error/status codes** (`RAT_STATUS`).
