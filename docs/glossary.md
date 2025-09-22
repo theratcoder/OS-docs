@@ -34,6 +34,10 @@ The **Linux kernel**, which RatOS builds upon, providing low-level hardware inte
 
 **Portable Operating System Interface** — A family of standards specified by the IEEE to maintain compatibility between operating systems.
 
+### SDK
+
+**Software Development Kit** - A bundle of software tools, libraries, documentation, and sample code that allows developers to create applications for a specific platform, operating system, or programming language. By providing these pre-built components and resources, an SDK streamlines the development process, enabling developers to focus on unique features rather than reinventing standard functionalities. RatOS will offer an SDK that allows developers to build apps agains RatAPI.
+
 ### Syscall
 
 A **system call**, i.e., the mechanism through which user applications request services from the operating system kernel.
