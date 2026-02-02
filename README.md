@@ -2,6 +2,11 @@
 
 Welcome to the **RatOS documentation repository**. RatOS is a Linux-based operating system that exposes its own **Win32-inspired API** (RatAPI) to simplify application development. This documentation is the canonical source for architecture decisions, specifications, API references, and examples.
 
+The rest of the project can be found linked below.
+ - [Kernel](https://github.com/theratcoder/OS-kernel)
+ - [Build scripts](https://github.com/theratcoder/OS-build)
+ - [Userland](https://github.com/theratcoder/OS-userland)
+
 ---
 
 ## 📖 What is RatOS?
